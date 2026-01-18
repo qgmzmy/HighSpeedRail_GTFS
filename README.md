@@ -15,7 +15,7 @@
 - [x] [时刻表（仅港鐵動感號担当，精确到分钟）](https://gtfs.org/getting-started/features/base/#stop-times)
 - [x] [服务日期（缺少例外，某些情况下有效期可能短过七日](https://gtfs.org/getting-started/features/base/#service-dates)
 - [x] [路线](https://gtfs.org/getting-started/features/base/#routes)
-- [ ] [路径](https://gtfs.org/getting-started/features/base-add-ons/#shapes)
+- [x] [路径](https://gtfs.org/getting-started/features/base-add-ons/#shapes)
 
 ### 语言
 

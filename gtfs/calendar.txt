@@ -1,2 +1,2 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-normal,1,1,1,1,1,1,1,20260118,20260125
+normal,1,1,1,1,1,1,1,20260119,20260125

@@ -34,9 +34,10 @@ def trip_info():
         trip_headsign = STATION_NAME[train["end_station_code"]]
         trip_short_name = train["id"]
         direction_id = 1 if train["end_station_code"] == "WEK" else 0
+        shape_id = train["start_station_code"]+"2"+train["end_station_code"]
         wheelchair_accessible = 1
         cars_allowed = 2
-        trip = [route_id, service_id, trip_id, trip_headsign, trip_short_name, direction_id, wheelchair_accessible, cars_allowed]
+        trip = [route_id, service_id, trip_id, trip_headsign, trip_short_name, direction_id, shape_id, wheelchair_accessible, cars_allowed]
         trips.append(trip)
 
     return trips
@@ -48,7 +49,7 @@ if __name__ == "__main__":
 
     with open(f"{RESULT_DIR}/trips.txt", "w", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["route_id", "service_id", "trip_id", "trip_headsign", "trip_short_name", "direction_id", "wheelchair_accessible", "cars_allowed"])
+        writer.writerow(["route_id", "service_id", "trip_id", "trip_headsign", "trip_short_name", "direction_id", "shape_id", "wheelchair_accessible", "cars_allowed"])
         trips = trip_info()
         for trip in trips:
             writer.writerow(trip)

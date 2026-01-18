@@ -1,6 +1,8 @@
 startTime_s=`date +%s`
 
 
+python3 generate_feed_info.py
+echo feed_info done
 python3 generate_calendar.py
 echo calendar done
 python3 generate_trips.py
@@ -9,8 +11,6 @@ python3 generate_stop_times.py
 echo stop_times done
 python3 generate_translations.py
 echo translations done
-python3 generate_feed_info.py
-echo feed_info done
 zip -j gtfs.zip ./gtfs/*
 
 endTime_s=`date +%s`

@@ -11,7 +11,7 @@ python3 generate_translations.py
 echo translations done
 python3 generate_feed_info.py
 echo feed_info done
-zip gtfs.zip ./gtfs/*
+zip -j gtfs.zip ./gtfs/*
 
 endTime_s=`date +%s`
 

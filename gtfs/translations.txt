@@ -1,0 +1,200 @@
+table_name,field_name,language,translation,record_id
+agency,agency_name,zh-CN,高速铁路,highspeed
+agency,agency_fare_url,zh-CN,https://www.highspeed.mtr.com.hk/sc/main/buy-ticket.html,highspeed
+stops,stop_name,zh-CN,香港西九龙,WEK
+stops,stop_name,zh-CN,香港西九龙,WEK_pf
+stops,stop_name,zh-CN,福田,FUT
+stops,stop_name,zh-CN,福田,FUT_pf56
+stops,stop_name,zh-CN,福田,FUT_pf78
+stops,stop_name,zh-CN,深圳北,SZB
+stops,stop_name,zh-CN,深圳北,SZB_pf
+stops,stop_name,zh-CN,光明城,GMC
+stops,stop_name,zh-CN,光明城,GMC_pf1
+stops,stop_name,zh-CN,光明城,GMC_pf2
+stops,stop_name,zh-CN,虎门,HUM
+stops,stop_name,zh-CN,虎门,HUM_pf12
+stops,stop_name,zh-CN,虎门,HUM_pf34
+stops,stop_name,zh-CN,南沙北,QIS
+stops,stop_name,zh-CN,南沙北,QIS_pf1
+stops,stop_name,zh-CN,南沙北,QIS_pf2
+stops,stop_name,zh-CN,广州南,GZN
+stops,stop_name,zh-CN,广州南,GZN_pf
+routes,route_short_name,zh-CN,高速铁路,XRL
+routes,route_long_name,zh-CN,广深港高速铁路,XRL
+attributions,organization_name,zh-CN,香港铁路有限公司,MTR
+trips,trip_headsign,zh-CN,深圳北,G5624
+trips,trip_headsign,zh-CN,福田,G5820
+trips,trip_headsign,zh-CN,深圳北,G5636
+trips,trip_headsign,zh-CN,福田,G5822
+trips,trip_headsign,zh-CN,深圳北,G5626
+trips,trip_headsign,zh-CN,广州南,G6582
+trips,trip_headsign,zh-CN,深圳北,G5638
+trips,trip_headsign,zh-CN,福田,G5812
+trips,trip_headsign,zh-CN,深圳北,G5628
+trips,trip_headsign,zh-CN,深圳北,G5640
+trips,trip_headsign,zh-CN,福田,G5816
+trips,trip_headsign,zh-CN,深圳北,G5630
+trips,trip_headsign,zh-CN,广州南,G6584
+trips,trip_headsign,zh-CN,福田,G5818
+trips,trip_headsign,zh-CN,深圳北,G5642
+trips,trip_headsign,zh-CN,深圳北,G5632
+trips,trip_headsign,zh-CN,福田,G5858
+trips,trip_headsign,zh-CN,深圳北,G5644
+trips,trip_headsign,zh-CN,福田,G5808
+trips,trip_headsign,zh-CN,深圳北,G5620
+trips,trip_headsign,zh-CN,深圳北,G5646
+trips,trip_headsign,zh-CN,福田,G5810
+trips,trip_headsign,zh-CN,深圳北,G5622
+trips,trip_headsign,zh-CN,福田,G5806
+trips,trip_headsign,zh-CN,深圳北,G5634
+trips,trip_headsign,zh-CN,福田,G5828
+trips,trip_headsign,zh-CN,深圳北,G5648
+trips,trip_headsign,zh-CN,广州南,G6586
+trips,trip_headsign,zh-CN,福田,G5814
+trips,trip_headsign,zh-CN,福田,G5830
+trips,trip_headsign,zh-CN,深圳北,G5650
+trips,trip_headsign,zh-CN,福田,G5862
+trips,trip_headsign,zh-CN,福田,G5832
+trips,trip_headsign,zh-CN,深圳北,G5652
+trips,trip_headsign,zh-CN,福田,G5824
+trips,trip_headsign,zh-CN,广州南,G6588
+trips,trip_headsign,zh-CN,深圳北,G5654
+trips,trip_headsign,zh-CN,福田,G5826
+trips,trip_headsign,zh-CN,香港西九龙,G5819
+trips,trip_headsign,zh-CN,香港西九龙,G5625
+trips,trip_headsign,zh-CN,香港西九龙,G5637
+trips,trip_headsign,zh-CN,香港西九龙,G5821
+trips,trip_headsign,zh-CN,香港西九龙,G5627
+trips,trip_headsign,zh-CN,香港西九龙,G5639
+trips,trip_headsign,zh-CN,香港西九龙,G5811
+trips,trip_headsign,zh-CN,香港西九龙,G5629
+trips,trip_headsign,zh-CN,香港西九龙,G6581
+trips,trip_headsign,zh-CN,香港西九龙,G5815
+trips,trip_headsign,zh-CN,香港西九龙,G5641
+trips,trip_headsign,zh-CN,香港西九龙,G5631
+trips,trip_headsign,zh-CN,香港西九龙,G5817
+trips,trip_headsign,zh-CN,香港西九龙,G5643
+trips,trip_headsign,zh-CN,香港西九龙,G5633
+trips,trip_headsign,zh-CN,香港西九龙,G5857
+trips,trip_headsign,zh-CN,香港西九龙,G6583
+trips,trip_headsign,zh-CN,香港西九龙,G5645
+trips,trip_headsign,zh-CN,香港西九龙,G5807
+trips,trip_headsign,zh-CN,香港西九龙,G5621
+trips,trip_headsign,zh-CN,香港西九龙,G5647
+trips,trip_headsign,zh-CN,香港西九龙,G5809
+trips,trip_headsign,zh-CN,香港西九龙,G5859
+trips,trip_headsign,zh-CN,香港西九龙,G5623
+trips,trip_headsign,zh-CN,香港西九龙,G5805
+trips,trip_headsign,zh-CN,香港西九龙,G5635
+trips,trip_headsign,zh-CN,香港西九龙,G5827
+trips,trip_headsign,zh-CN,香港西九龙,G5649
+trips,trip_headsign,zh-CN,香港西九龙,G5813
+trips,trip_headsign,zh-CN,香港西九龙,G5829
+trips,trip_headsign,zh-CN,香港西九龙,G5651
+trips,trip_headsign,zh-CN,香港西九龙,G6585
+trips,trip_headsign,zh-CN,香港西九龙,G5861
+trips,trip_headsign,zh-CN,香港西九龙,G5831
+trips,trip_headsign,zh-CN,香港西九龙,G5653
+trips,trip_headsign,zh-CN,香港西九龙,G5823
+trips,trip_headsign,zh-CN,香港西九龙,G5655
+trips,trip_headsign,zh-CN,香港西九龙,G6587
+table_name,field_name,language,translation,record_id
+agency,agency_name,en,High Speed Rail,highspeed
+agency,agency_fare_url,en,https://www.highspeed.mtr.com.hk/sc/main/buy-ticket.html,highspeed
+stops,stop_name,en,Hong Kong West Kowloon,WEK
+stops,stop_name,en,Hong Kong West Kowloon,WEK_pf
+stops,stop_name,en,Futian,FUT
+stops,stop_name,en,Futian,FUT_pf56
+stops,stop_name,en,Futian,FUT_pf78
+stops,stop_name,en,Shenzhenbei,SZB
+stops,stop_name,en,Shenzhenbei,SZB_pf
+stops,stop_name,en,Guangmingcheng,GMC
+stops,stop_name,en,Guangmingcheng,GMC_pf1
+stops,stop_name,en,Guangmingcheng,GMC_pf2
+stops,stop_name,en,Humen,HUM
+stops,stop_name,en,Humen,HUM_pf12
+stops,stop_name,en,Humen,HUM_pf34
+stops,stop_name,en,Nanshabei,QIS
+stops,stop_name,en,Nanshabei,QIS_pf1
+stops,stop_name,en,Nanshabei,QIS_pf2
+stops,stop_name,en,Guangzhounan,GZN
+stops,stop_name,en,Guangzhounan,GZN_pf
+routes,route_short_name,en,High Speed Rail,XRL
+routes,route_long_name,en,Guangzhou-Shenzhen-Hong Kong High Speed Rail,XRL
+attributions,organization_name,en,MTR Corporation Limited,MTR
+trips,trip_headsign,en,Shenzhenbei,G5624
+trips,trip_headsign,en,Futian,G5820
+trips,trip_headsign,en,Shenzhenbei,G5636
+trips,trip_headsign,en,Futian,G5822
+trips,trip_headsign,en,Shenzhenbei,G5626
+trips,trip_headsign,en,Guangzhounan,G6582
+trips,trip_headsign,en,Shenzhenbei,G5638
+trips,trip_headsign,en,Futian,G5812
+trips,trip_headsign,en,Shenzhenbei,G5628
+trips,trip_headsign,en,Shenzhenbei,G5640
+trips,trip_headsign,en,Futian,G5816
+trips,trip_headsign,en,Shenzhenbei,G5630
+trips,trip_headsign,en,Guangzhounan,G6584
+trips,trip_headsign,en,Futian,G5818
+trips,trip_headsign,en,Shenzhenbei,G5642
+trips,trip_headsign,en,Shenzhenbei,G5632
+trips,trip_headsign,en,Futian,G5858
+trips,trip_headsign,en,Shenzhenbei,G5644
+trips,trip_headsign,en,Futian,G5808
+trips,trip_headsign,en,Shenzhenbei,G5620
+trips,trip_headsign,en,Shenzhenbei,G5646
+trips,trip_headsign,en,Futian,G5810
+trips,trip_headsign,en,Shenzhenbei,G5622
+trips,trip_headsign,en,Futian,G5806
+trips,trip_headsign,en,Shenzhenbei,G5634
+trips,trip_headsign,en,Futian,G5828
+trips,trip_headsign,en,Shenzhenbei,G5648
+trips,trip_headsign,en,Guangzhounan,G6586
+trips,trip_headsign,en,Futian,G5814
+trips,trip_headsign,en,Futian,G5830
+trips,trip_headsign,en,Shenzhenbei,G5650
+trips,trip_headsign,en,Futian,G5862
+trips,trip_headsign,en,Futian,G5832
+trips,trip_headsign,en,Shenzhenbei,G5652
+trips,trip_headsign,en,Futian,G5824
+trips,trip_headsign,en,Guangzhounan,G6588
+trips,trip_headsign,en,Shenzhenbei,G5654
+trips,trip_headsign,en,Futian,G5826
+trips,trip_headsign,en,Hong Kong West Kowloon,G5819
+trips,trip_headsign,en,Hong Kong West Kowloon,G5625
+trips,trip_headsign,en,Hong Kong West Kowloon,G5637
+trips,trip_headsign,en,Hong Kong West Kowloon,G5821
+trips,trip_headsign,en,Hong Kong West Kowloon,G5627
+trips,trip_headsign,en,Hong Kong West Kowloon,G5639
+trips,trip_headsign,en,Hong Kong West Kowloon,G5811
+trips,trip_headsign,en,Hong Kong West Kowloon,G5629
+trips,trip_headsign,en,Hong Kong West Kowloon,G6581
+trips,trip_headsign,en,Hong Kong West Kowloon,G5815
+trips,trip_headsign,en,Hong Kong West Kowloon,G5641
+trips,trip_headsign,en,Hong Kong West Kowloon,G5631
+trips,trip_headsign,en,Hong Kong West Kowloon,G5817
+trips,trip_headsign,en,Hong Kong West Kowloon,G5643
+trips,trip_headsign,en,Hong Kong West Kowloon,G5633
+trips,trip_headsign,en,Hong Kong West Kowloon,G5857
+trips,trip_headsign,en,Hong Kong West Kowloon,G6583
+trips,trip_headsign,en,Hong Kong West Kowloon,G5645
+trips,trip_headsign,en,Hong Kong West Kowloon,G5807
+trips,trip_headsign,en,Hong Kong West Kowloon,G5621
+trips,trip_headsign,en,Hong Kong West Kowloon,G5647
+trips,trip_headsign,en,Hong Kong West Kowloon,G5809
+trips,trip_headsign,en,Hong Kong West Kowloon,G5859
+trips,trip_headsign,en,Hong Kong West Kowloon,G5623
+trips,trip_headsign,en,Hong Kong West Kowloon,G5805
+trips,trip_headsign,en,Hong Kong West Kowloon,G5635
+trips,trip_headsign,en,Hong Kong West Kowloon,G5827
+trips,trip_headsign,en,Hong Kong West Kowloon,G5649
+trips,trip_headsign,en,Hong Kong West Kowloon,G5813
+trips,trip_headsign,en,Hong Kong West Kowloon,G5829
+trips,trip_headsign,en,Hong Kong West Kowloon,G5651
+trips,trip_headsign,en,Hong Kong West Kowloon,G6585
+trips,trip_headsign,en,Hong Kong West Kowloon,G5861
+trips,trip_headsign,en,Hong Kong West Kowloon,G5831
+trips,trip_headsign,en,Hong Kong West Kowloon,G5653
+trips,trip_headsign,en,Hong Kong West Kowloon,G5823
+trips,trip_headsign,en,Hong Kong West Kowloon,G5655
+trips,trip_headsign,en,Hong Kong West Kowloon,G6587

@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_version,feed_contact_email
+qgmzmy,https://blog.qgmzmy.me/,zh-HK,,qgmzmy114514@gmail.com

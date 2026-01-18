@@ -1,0 +1,4 @@
+attribution_id,organization_name,is_producer,is_operator,is_authority,attribution_url,attribution_email,attribution_phone
+MTR,香港鐵路有限公司,1,1,0,https://www.mtr.com.hk/,,2881 8888
+12306,中国铁路客户服务中心,1,0,0,https://www.12306.cn/,kyfw@12306.cn,12306
+qgmzmy,qgmzmy,1,0,0,https://blog.qgmzmy.me/,qgmzmy114514@gmail.com,

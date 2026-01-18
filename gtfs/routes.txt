@@ -1,0 +1,2 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color,cemv_support
+XRL,highspeed,高速鐵路,廣深港高速鐵路,2,https://www.highspeed.mtr.com.hk/tc/about/hsr-intro.html,8F928D,FFFFFF,2

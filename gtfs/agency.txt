@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email,cemv_support
+highspeed,高速鐵路,https://www.highspeed.mtr.com.hk/,Asia/Hong_Kong,zh-HK,(852) 2120 0888,https://www.highspeed.mtr.com.hk/tc/main/buy-ticket.html,kyfw@12306.cn,2

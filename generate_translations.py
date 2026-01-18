@@ -69,8 +69,7 @@ with open(f"{RESULT_DIR}/translations.txt", "a", encoding="utf-8") as f:
 
 
 with open(f"{RESULT_DIR}/translations.txt", "a", encoding="utf-8") as f:
-    f.write("""table_name,field_name,language,translation,record_id
-agency,agency_name,en,High Speed Rail,highspeed
+    f.write("""agency,agency_name,en,High Speed Rail,highspeed
 agency,agency_fare_url,en,https://www.highspeed.mtr.com.hk/sc/main/buy-ticket.html,highspeed
 stops,stop_name,en,Hong Kong West Kowloon,WEK
 stops,stop_name,en,Hong Kong West Kowloon,WEK_pf

@@ -51,7 +51,7 @@ def stop_times_info(write: bool = False, result_dir: str = "gtfs", sleep: float 
         for stop in data:
             trip_id = train_code
             arrival_time = stop["start_time"]+":00" if stop["running_time"] == "00:00" else stop["arrive_time"]+":00"
-            departure_time = stop["start_time"]+":00"
+            departure_time = stop["start_time"]+":00" if stop["start_time"] >= stop["arrive_time"] else stop["arrive_time"]+":00"
             stop_id = get_stop_id(stop["station_name"], int(train_code[-1])%2)
             stop_sequence = int(stop["station_no"])
             timepoint = 1

@@ -98,7 +98,6 @@ trips,trip_headsign,zh-CN,香港西九龙,G5653
 trips,trip_headsign,zh-CN,香港西九龙,G5823
 trips,trip_headsign,zh-CN,香港西九龙,G5655
 trips,trip_headsign,zh-CN,香港西九龙,G6587
-table_name,field_name,language,translation,record_id
 agency,agency_name,en,High Speed Rail,highspeed
 agency,agency_fare_url,en,https://www.highspeed.mtr.com.hk/sc/main/buy-ticket.html,highspeed
 stops,stop_name,en,Hong Kong West Kowloon,WEK

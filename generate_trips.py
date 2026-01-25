@@ -29,7 +29,7 @@ def trip_info():
 
     for train in mtr_trips:
         route_id = "XRL"
-        service_id = "normal"
+        service_id = "saturday" if train["remarks_EN"] == "Additional Train on Saturday" else "normal"
         trip_id = train["id"]
         trip_headsign = STATION_NAME[train["end_station_code"]]
         trip_short_name = train["id"]
@@ -39,6 +39,10 @@ def trip_info():
         cars_allowed = 2
         trip = [route_id, service_id, trip_id, trip_headsign, trip_short_name, direction_id, shape_id, wheelchair_accessible, cars_allowed]
         trips.append(trip)
+        # if trip[1] == "normal":
+        #     trip = [route_id, "saturday", trip_id, trip_headsign, trip_short_name, direction_id, shape_id, wheelchair_accessible, cars_allowed]
+        #     trips.append(trip)
+
 
     return trips
 

@@ -3,8 +3,8 @@ startTime_s=`date +%s`
 
 python3 generate_feed_info.py
 echo feed_info done
-python3 generate_calendar.py
-echo calendar done
+# python3 generate_calendar.py
+# echo calendar done
 python3 generate_trips.py
 echo trips done
 python3 generate_stop_times.py

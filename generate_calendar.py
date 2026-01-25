@@ -18,3 +18,4 @@ with open(f"{RESULT_DIR}/calendar.txt", "w", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["service_id", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday", "start_date", "end_date"])
     writer.writerow(["normal", 1, 1, 1, 1, 1, 1, 1, datetime.date.today().strftime('%Y%m%d'), date])
+    writer.writerow(["saturday", 0, 0, 0, 0, 0, 1, 0, datetime.date.today().strftime('%Y%m%d'), date])
